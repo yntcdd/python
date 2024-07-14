@@ -1,0 +1,2 @@
+pieceColor = ''
+start = False
